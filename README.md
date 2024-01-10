@@ -3,6 +3,8 @@
 PROJET FLUTTER.
 
 
+générer des images via l'api openai avec dalle-3   
+
 Pour lancer l'application , le point d'entrée est le main.dart.
 
 dépendances: 
